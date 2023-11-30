@@ -2,6 +2,7 @@
 
 Author: Sangwon Baek  
 Institution: Center for Data Science, New York University  
+Course: DS-UA 471: Intro to Machine Learning 
 Professor: Lerrel Pinto 
 
 ## Overview
