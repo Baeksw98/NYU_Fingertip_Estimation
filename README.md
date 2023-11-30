@@ -2,6 +2,7 @@
 
 Author: Sangwon Baek  
 Institution: Center for Data Science, New York University  
+Professor: Lerrel Pinto 
 
 ## Overview
 
